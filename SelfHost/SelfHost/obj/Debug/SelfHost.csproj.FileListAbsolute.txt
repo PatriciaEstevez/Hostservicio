@@ -1,0 +1,6 @@
+C:\practicasAndroid\SelfHost\SelfHost\bin\Debug\SelfHost.exe.config
+C:\practicasAndroid\SelfHost\SelfHost\bin\Debug\SelfHost.exe
+C:\practicasAndroid\SelfHost\SelfHost\bin\Debug\SelfHost.pdb
+C:\practicasAndroid\SelfHost\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+C:\practicasAndroid\SelfHost\SelfHost\obj\Debug\SelfHost.exe
+C:\practicasAndroid\SelfHost\SelfHost\obj\Debug\SelfHost.pdb
